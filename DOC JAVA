@@ -11,45 +11,41 @@ Pacotes:
 com.spotify.api: Contém classes para interação com a API do Spotify.
 com.playlist: Classes relacionadas à criação e gestão de playlists colaborativas.
 com.authentication: Lida com o processo de autenticação e autorização dos usuários.
-Dependências:
 
+Dependências:
 Destaca as bibliotecas e frameworks utilizados, como a biblioteca Spotify API para interação com a API do Spotify.
+
 3. Classes Principais
 
 SpotifyAPIManager
-
 Gerencia a autenticação com a API do Spotify e fornece métodos para buscar e adicionar músicas.
-CollaborativePlaylist
 
+CollaborativePlaylist
 Representa uma playlist colaborativa, contendo métodos para adição, remoção e edição de músicas.
 UserAuthentication
-
 Lida com a autenticação do usuário, garantindo acesso seguro à aplicação.
+
 4. Métodos Principais
 
 SpotifyAPIManager.searchTrack(String query)
-
 Realiza uma busca por uma música no Spotify com base em uma consulta.
 CollaborativePlaylist.addTrack(String trackId, String userId)
-
 Adiciona uma música à playlist colaborativa associando-a a um usuário.
 UserAuthentication.authenticateUser(String username, String password)
-
 Autentica um usuário com suas credenciais, concedendo acesso à aplicação.
+
 5. Utilização do Código
-
 Configuração:
-
 Instruções sobre como configurar as credenciais da API do Spotify e as informações de autenticação do usuário.
-Exemplo de Uso:
 
+Exemplo de Uso:
 Demonstrações de código para criar uma playlist, adicionar músicas e autenticar usuários.
+
 6. Considerações de Segurança no Código
 
 Segurança da API:
-
 Destaca práticas seguras ao lidar com tokens de autenticação e chamadas à API do Spotify.
 Prevenção de Vulnerabilidades:
-
 Orientações para evitar vulnerabilidades de segurança, como validação de entrada e tratamento seguro de dados sensíveis.
-Este documento fornece uma visão abrangente do código Java para a Playlist Colaborativa no Spotify, facilitando a compreensão, utilização e manutenção do sistema.
+
+*Este documento fornece uma visão abrangente do código Java para a Playlist Colaborativa no Spotify, facilitando a compreensão, utilização e manutenção do sistema.*

@@ -2,7 +2,9 @@ Documentação de Código: Playlist Colaborativa no Spotify (Java)
 
 1. Introdução
 
-O código em Java para a Playlist Colaborativa no Spotify permite a criação e gestão de playlists colaborativas. Este documento fornece uma visão geral do código, suas principais classes e métodos.
+O código em Java para a Playlist Colaborativa no Spotify permite a criação e gestão de playlists colaborativas. 
+
+Este documento fornece uma visão geral do código, suas principais classes e métodos.
 
 2. Estrutura do Projeto
 
@@ -48,4 +50,5 @@ Destaca práticas seguras ao lidar com tokens de autenticação e chamadas à AP
 Prevenção de Vulnerabilidades:
 Orientações para evitar vulnerabilidades de segurança, como validação de entrada e tratamento seguro de dados sensíveis.
 
-*Este documento fornece uma visão abrangente do código Java para a Playlist Colaborativa no Spotify, facilitando a compreensão, utilização e manutenção do sistema.*
+*Este documento fornece uma visão abrangente do código Java para a Playlist Colaborativa no Spotify, facilitando a compreensão, 
+utilização e manutenção do sistema.*

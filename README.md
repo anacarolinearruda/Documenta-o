@@ -1,6 +1,6 @@
 # Documentação    Playlist Colaborativa no Spotify
 
-A documentação de software é crucial em todo o ciclo de vida do desenvolvimento de software e desempenha um papel fundamental em várias áreas. Aqui estão os topicos importantes abordados na documentação de software:
+A documentação de software é crucial em todo o ciclo de vida do desenvolvimento de software e desempenha um papel fundamental em várias áreas. Aqui estão os principais topicos abordados na documentação de software:
 
 # Compreensão do Sistema:
 Facilita a compreensão da arquitetura, design e funcionamento do software, permitindo que desenvolvedores e membros da equipe entendam o sistema de forma rápida e eficiente.

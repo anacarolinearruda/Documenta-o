@@ -2,7 +2,7 @@
 
 A documentação de software é crucial em todo o ciclo de vida do desenvolvimento de software e desempenha um papel fundamental em várias áreas. 
 
-Esse repositório contém documentação de um modelo de código em JAVA. Aqui também estão os principais topicos abordados na documentação de software:
+Esse repositório contém uma documentação de um modelo de código em JAVA. E também, estão os principais topicos abordados na documentação de software:
 
 # Compreensão do Sistema:
 Facilita a compreensão da arquitetura, design e funcionamento do software, permitindo que desenvolvedores e membros da equipe entendam o sistema de forma rápida e eficiente.

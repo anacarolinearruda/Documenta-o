@@ -1,4 +1,4 @@
-# Documentação
+# Documentação    Playlist Colaborativa no Spotify
 
 A documentação de software é crucial em todo o ciclo de vida do desenvolvimento de software e desempenha um papel fundamental em várias áreas. Aqui estão algumas das razões pelas quais a documentação de software é importante:
 
